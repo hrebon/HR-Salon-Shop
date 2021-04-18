@@ -1,13 +1,11 @@
 import React from 'react';
 import FeaturedService from '../FeaturedService/FeaturedService';
-import MakeAppointment from '../MakeAppointment/MakeAppointment';
 import Testimonials from '../Testimonials/Testimonials';
 import Header from '../Header/Header';
 import Services from '../Services/Services';
-import Blogs from '../Blogs/Blogs';
-import Doctors from '../Doctors/Doctors';
 import Contact from '../Contact/Contact';
 import Footer from '../Footer/Footer';
+import HairSpecialist from '../HairSpecialist/HairSpecialist';
 
 const Home = () => {
     return (
@@ -15,10 +13,8 @@ const Home = () => {
             <Header></Header>
             <Services></Services>
             <FeaturedService></FeaturedService>
-            <MakeAppointment></MakeAppointment>
             <Testimonials></Testimonials>
-            <Blogs></Blogs>
-            <Doctors></Doctors>
+            <HairSpecialist></HairSpecialist>
             <Contact></Contact>
             <Footer></Footer>
         </div>

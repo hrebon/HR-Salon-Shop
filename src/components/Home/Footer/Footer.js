@@ -6,31 +6,29 @@ import { faFacebookF, faInstagram, faGooglePlusG } from '@fortawesome/free-brand
 
 const Footer = () => {
     const noNamed = [
-        {name: "Emergency Dental Care" , link: "/emergency"},
+        {name: "Special Covid saftey Care" , link: "/saftey care"},
         {name: "Check Up" , link: "/checkup"},
-        {name: "Treatment of Personal Diseases" , link: "/personal-treatment"},
-        {name: "Tooth Extraction" , link: "/tooth-extract"},
+        {name: "personal hair cutting" , link: "/personal-cutting"},
+        {name: "Hair treatment" , link: "/hair treatment"},
         {name: "Check Up" , link: "/checkup"},
     ]
     const ourAddress = [
-        {name: "New York - 101010 Hudson" , link: "//google.com/map"},
-        {name: "Yards" , link: "//google.com/map"},
+        {name: "Dhanmondi 27 Road:2A House: 23" , link: "//google.com/map"},
+        {name: "Dhaka" , link: "//google.com/map"},
        
     ]
     const oralHealth = [
-        {name: "Emergency Dental Care" , link: "/emergency"},
+        {name: "Emergency Hair Care" , link: "/emergency"},
         {name: "Check Up" , link: "/checkup"},
-        {name: "Treatment of Personal Diseases" , link: "/personal-treatment"},
-        {name: "Tooth Extraction" , link: "/tooth-extract"},
+        {name: "Hair Treatment of Personal Diseases" , link: "/personal-treatment"},
         {name: "Check Up" , link: "/checkup"},
         {name: "Check Up" , link: "/checkup"},
         {name: "Check Up" , link: "/checkup"}
     ]
     const services = [
-        {name: "Emergency Dental Care" , link: "/emergency"},
+        {name: "Emergency Hair Care" , link: "/emergency"},
         {name: "Check Up" , link: "/checkup"},
-        {name: "Treatment of Personal Diseases" , link: "/personal-treatment"},
-        {name: "Tooth Extraction" , link: "/tooth-extract"},
+        {name: "Hair Treatment of Personal Diseases" , link: "/personal-treatment"},
         {name: "Check Up" , link: "/checkup"},
         {name: "Check Up" , link: "/checkup"},
         {name: "Check Up" , link: "/checkup"}

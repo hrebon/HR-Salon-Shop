@@ -1,5 +1,4 @@
 .contact{
-    background-image: url(../../../images/appointmentBg.png);
     position: relative;
     z-index: 1;
 }
@@ -9,7 +8,7 @@
     top:0;
     width: 100%;
     height: 100%;
-    background: rgb(12, 11, 27);
+    background: linear-gradient(45deg, black ,gray);
     opacity: .9;
     z-index: -1;
 }

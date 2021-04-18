@@ -1,5 +1,5 @@
 import React from 'react';
-import featured from '../../../images/featured.png'
+import featured from '../../../images/special cut.jpg'
 const FeaturedService = () => {
     return (
         <section className="features-service pb-0 pb-md-5 my-5">
@@ -9,7 +9,7 @@ const FeaturedService = () => {
                         <img className="img-fluid" src={featured} alt=""/>
                     </div>
                     <div className="col-md-7 align-self-center">
-                        <h1>Exceptional Dental Care, on your Term</h1>
+                        <h1>Ramadan Exception Cutting Offer on Going</h1>
                         <p className="text-secondary my-5">
                             Lorem ipsum dolor sit amet consectetur adipisicing elit.  Tempore efacere amet aperiam non odio. Temporibus, nemo quasi quisquam ipsa distinctio saepe sed veniam incidunt, tempora mollitia, dignissimos repellendus expedita. Obcaecati minima, reiciendis optio aspernatur autem pariatur soluta illum velit, eligendi dolorem consequuntur sapiente rerum accusamus aut nulla praesentium! Neque autem animi, voluptatem magnam nesciunt officia nemo nam, delectus minima velit beatae iste praesentium ad repudiandae, similique excepturi sapiente.
                         </p>
